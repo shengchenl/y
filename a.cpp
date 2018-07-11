@@ -10,4 +10,5 @@ int main(){
 	scanf("%s",c1+1);len=strlen(c1+1);
 	scanf("%s",c2+1);
 	printf("%s\n%s",c1+1,c2+1);
+	return 0;
 }
